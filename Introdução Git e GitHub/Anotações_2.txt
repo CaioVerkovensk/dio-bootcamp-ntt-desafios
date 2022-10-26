@@ -1,0 +1,13 @@
+Funcionamento do GIT
+
+SHA ( Secure Hash Algorithm ) - é um conjunto de funções HASH criptografadas projetadas pela NSA (Segurança Nacional EUA) na qual você possui dados de entrada e, após passar pela criptografia, eles apresentam valores de saída "padronizados", ou seja, as saídas devem possuir o mesmo tamanho (geralmente entre 128 e 512 bits) e o mesmo número de caracteres alfanuméricos. Os Dados encriptados geram um conjunto de caracteres de 40 digitos unicos 
+
+Os 3 Objetos do GIT
+
+Blobs: é o tipo de objeto usado para armazenar o conteúdo de cada arquivo em um repositório. O hash SHA-1 do arquivo é calculado e armazenado no objeto do blob. Esses pontos de extremidade permitem que você leia e grave objetos de blob no banco de dados do Git no GitHub como imagens, multimedia e arquivos PDF.
+
+
+Trees : O tipo de objeto é tree, e em vez de ter os valores simples, como o blob, a tree é um conjunto de valores de índices apontando para os objetos, juntamente com um modo
+
+Commits : O mais importantes, ele aponta para Blobs, Trees e autores e parentes 
+
