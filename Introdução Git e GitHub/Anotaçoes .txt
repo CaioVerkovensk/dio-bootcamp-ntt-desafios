@@ -1,1 +1,30 @@
+GIT
+Criador – Linus Torvalos 
+Software de controle de versão distribuída e de código aberto (Monitora/ Cria) diferentes versões.
+Foi criado por que os softwares do mesmo segmento da época eram bastante limitados de acordo com Linus. ( CVS, Subversion)
+Benefícios
+Controle de versão 
+Armazenamento em nuvem
+Trabalho em equipe 
+Melhor código
+Reconhecimento 
+
+Algumas linhas de comandos do GIT Bash ( Terminal do GIT), podem variar de acordo com sistema operacional.
+CD/ :ir para pasta 
+CD .. : voltar para pasta 
+DIR: Listar Diretórios  
+CLS: Limpar terminal 
+TAB : completar palavra 
+MKDIR : Cria Pasta
+Echo > : Cria Diretório 
+DEL: Deleta arquivos da pasta 
+RMDIR: deleta a pasta /s /q
+GIT INIT: inicializa / cria repositório na pasta
+GIT ADD ( . ou – A): adiciona arquivo 
+GIT COMMIT (-M para incluir mensagem): comita a alteração nos arquivos 
+GIT STATUS: mostra o status atual do repositório 
+GIT PUSH ORIGIN MAIN: update de local para nuvem
+
+
+
 Link para Download do Git : https://git-scm.com/
