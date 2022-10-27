@@ -1,7 +1,7 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da Dio  :computer:
-Repositório criado para  Desafio de Projeto sobre Git/GitHub da Dio. :bookmark_tabs:
+# Desafio Bootcamp NTT Dio  :computer:
+Repositório criado para os Desafios e estudos doBootcamp NTT-Dio. :bookmark_tabs:
 
-Com intuído de registrar e aperfeiçoa as praticas com a ferramenta  
+Com intuído de registrar e aperfeiçoa as praticas com a ferramenta Git/GitHub 
 
 
 
