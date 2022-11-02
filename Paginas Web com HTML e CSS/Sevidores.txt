@@ -1,0 +1,35 @@
+Conceitos Servidor: 
+•	Pode ser local ou online.
+•	Tende a ser uma máquina mais robusta, para servi a muitos acessos
+•	Tipos de servidor (Arquivos, Segurança, Streaming, E-mail, Web)
+•	Pode ser uma máquina comum ou um data center (conjunto gigante de servidores)
+
+Tipos de Servidores
+•	Servidor Proxy: Um servidor proxy proporciona um gateway entre os usuários e a internet. É um servidor chamado de “intermediário”, porque fica entre os usuários finais e as páginas da web que eles visitam on-line.
+•	Servidor Firewall: Servidor voltado a acesso externo 
+•	Servidor Web server: 
+•	Servidor e-mail: voltado a e-mails 
+•	Servidor data base web: 
+•	DNS : domain name service ele redireciona o nome para um IP especifico  
+               
+
+
+Software (Parte Logica) 
+•	Sistemas Operacionais
+•	Monitoramento
+•	Servidores Web
+Hardware (parte Física) 
+•	Armazenamento 
+•	Memoria 
+•	Processadores 
+
+Requisição HTTP (quando o navegador pede alguma informação)
+Quando chega uma requisição no servidor ele ativa o servidor web e ele envia as informações em Html, css, Javascript, imagens e texto.
+
+Hospedagem 
+Colocar os arquivos do site em um servidor que fica disponível na internet que ficam disponível para os clientes acessarem 
+O provedor de hospedagem fornece os dados de acesso FTP (File Transfer Protocol) ao servidor.
+Depois de hospedar registrar o nome do site o DNS no registro.br  
+
+
+

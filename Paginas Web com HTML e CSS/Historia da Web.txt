@@ -1,0 +1,36 @@
+História da Web
+Primeiros computadores 
+1º gen.
+Mark 1 1994 – Computador eletromecânico basicamente uma máquina de cálculo considerado primeiro computador, mas a ideia de computador vem bem de antes da criação do Mark 1.
+Colossos 1946 – computador para cripto análises 
+Eniac 1946 – automático menos eletromecânico que o Mark 1, nessa época surgiu o termo bug (insetos nas válvulas) 
+2 º gen.: (1959 a 1965) substituiu válvulas por transistores  
+3 º gen.: (1965 a 1970) Circuito Integrado  
+4 º gen.: (1971 até hoje) Surgimento dos PC’s ( Personal Computer) popularizou e facilitou o acessos as pessoas comuns, criação do mouse.  
+5 º gen.: Computadores quânticos, IA’s, Meta verso.
+
+
+Como Surgiu a Internet 
+Um dos Primeiros sistemas de comunicação foi o telegrafo (Morse Code) basicamente sinais que tem um cod que mostra uma letra.
+1958 um cabo foi traçado pelo oceano de um continente a outro permitindo a primeira comunicação intercontinental.
+1950 – Guerra Fria corrida tecnologia entre Urss e EUA, criação da darpa ( defense advanced research projects agency) utilizando o ENIAC.
+Joseph Carl Robnett licklider teorizou sobre uma rede onde todos poderiam se comunicar através dela e plantou a semente da darpa e com isso depois de um tempo surgiu a Arpanet
+
+•	*Arpanet : Sistema de comunicação em pacotes, enviados um a um e que permitia múltiplos destinos.
+•	Estudo sobre nós. Ponto de instersecção de informações funcionando como “checkpoints”. Podemos dizer que é o “avô dos roteadores”.
+•	1º conexão estabelecida foi feita em 29/10/1969 entre a UCLA (UnivercityCalifornia) com o SRI (Stanford Research Institute) com a palavra “Login”, mas ós chegou “LO” .
+•	Com o tempo foi evoluindo, o Vinton Cerf e Robert Kahn criaram o TCP/IP e implantaram na Arpanet deixando assim mais robusta e assim surgindo redes menores como a MILNET ( exclusivamente Militar)  e NSFNET e NASA.
+•	Em 1989, Tim berners-lee viu a oportunidade de unir hipertexto com tcp/ip e criar a world wide web ( WWW) Primeiro navegador chamado world wide web, como a rede era de uso exclusivo militar e cientifico ele popularizou cirando o primeiro navegador. A parti dele veio o mosaic, Netscape e outros.
+•	Em 6 de agosto de 1991 ele publicou a primeira pagina da web http://info.cern.ch/
+
+
+Grandes nomes da tecnologia 
+•	Grace Murray Hopper uma das primeiras programadoras do Mark 1, da marinha dos EUA e criadora de uma linguagem de alto nível a Flow-Magic (Base do Cobol) e criou o termo bug na computação.
+•	Joseph Carl RobNett LICklider plantou a semente de criar uma rede para os computadores se comunicarem.
+•	Robert Kahn : Criador do TCP/IP, apresentou o primeiro Email, primeira apresentação do arpanet ao publico
+•	Tim Berners-lee : criou o www, diretor do world wide web consortion (w3c), já recebeu diversas homenagens inclusive titulo de cavaleiro dado pela rainha Elizabeth II
+•	Marc Andreessen  : (re)inventou o navegador. O Netscape Navigator feito a partir do mosaic, tornou o navegador “amigável”, com recursos gráficos e deteve 90% da internet na época, mas sendo superador pelo IE anos mais tarde
+•	Bill Gates : fundador da Microsoft, a equipe criou o Internet Explore e tornou acessível para todos os computadores o acesso a internet.
+•	Steve Jobs : Fundador da Apple, concorrente da Microsoft popularizou o smartphone que conhecemos hoje através do lançamento do iphone em 29/06/2007.
+
+

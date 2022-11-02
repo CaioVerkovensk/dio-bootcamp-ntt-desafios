@@ -1,0 +1,30 @@
+Clients
+Conceito de Client: Consome a informação de um Servidor, quando for publicar um site ele é publicado no servidor 
+Ex: Celulares, Computadores 
+Quando acessamos um site requisitamos a informação do servidor que nos manda arquivos
+Html,css,Javascript, imagens, áudio o navegador grava na máquina client os arquivos cache  para evitar ter que requisitar novamente as informações isso deixa mais rápido a navegação.
+Uma das preocupações dos Clients são os navegadores que interpretam as informações dos arquivos que veem dos servidores 
+
+Navegadores 
+•	Conceito de navegadores: São programas instalados nos dispositivos e eles interpretam os arquivos que vem do servidor web (html,css,javasript) criadas por empresas, utilizados para abrir e executar arquivos 
+•	É uma ferramenta para utilizar a internet 
+•	Segue o padrão a W3C, porém sempre tem uma diferença ou outra na interpretação
+•	Conhecidos como “browsers”
+•	Iniciou com MOSAIC, passou para o Netscape, e hoje tem uma variedade disponível.
+•	Cada um tem sua compatibilidade e uma forma de tratar as informações do servidor
+
+https://www.w3schools.com/tags/ref_html_browsersupport.asp
+
+Aplicação web
+
+São soluções criadas que possuem a internet como meio de comunicação, mas não é necessária a instalação para utilizar.
+
+
+EX: Youtube existe o programpara desktop e a aplicação de browser  
+Dispositivos Moveis 
+Uso 
+•	Entre 10 latinos-americano 9 possuem dispositivo móvel 
+•	22% dos usuários moveis passam 20 horas ou mais por semana na internet através de Smartphone 
+•	Mais de 60% dos usuários moveis de aplicativos específicos, tais como twitter, waze e outros consideram muito importante para sua vida 
+
+A internet está presente em nossas vidas, e majoritariamente através dos dispositivos moveis, a internet não é o futuro já estamos vivendo nele 

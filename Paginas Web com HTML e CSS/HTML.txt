@@ -1,0 +1,45 @@
+Linguagem de programação 
+Linguagem de Programação é uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas (software).
+5 primeiras segundo RedMonk rank de mais populares 
+1.	Javascript
+2.	Python
+3.	Java
+4.	PHP
+5.	C#
+
+
+Linguagem Server-Side
+Linguagens que são exec target="_blank" USADA’s no servidor
+Ex : PHP, JS, C#, Ruby, Java
+
+•	Cada linguagem tem a sua característica
+•	Aprenda ao menos uma linguagem
+•	Prefira aquela em que a comunidade é mais engajada
+•	Experimente!
+
+Linguagem Client-Side
+Linguagens que são executadas no Client
+Ex: JS   Javascript executa dos dois lados  (Server-side e Client-side)? Sim! 
+JS do lado do cliente Front End
+JS lado do servidor Back End
+https://v8.dev/
+V8 engine é um modulo dentro do navegador que pode ser utilizado em qualquer programa. 
+
+HTML é linguagem de programação?
+•	Não. HTML não é linguagem de programação!
+•	HTML é um arquivo de marcação.
+•	Textos delimitados por nomes que o navegador consegue interpretar.
+•	Cada nome destes delimitadores, tem uma função e comportamento específico.
+EX: HTML
+
+<p>
+   Eu curto demais a <strong><i>DIO!</i></strong>
+</p>
+Resultado:
+Eu curto demais a DIO!
+
+
+Arquivo CSV também é um arquivo de marcação.
+             Id;Nome;Idade;Email
+             1;Maria Lucia;43;maria@dio.me
+             2;Jorge Almeida;23;jorge@dio.me
