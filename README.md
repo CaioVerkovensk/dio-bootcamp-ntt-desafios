@@ -1,7 +1,6 @@
 # Desafio Bootcamp NTT Dio  :computer:
-Repositório criado para os Desafios e estudos doBootcamp NTT-Dio. :bookmark_tabs:
-
-Com intuído de registrar e aperfeiçoa as praticas com a ferramenta Git/GitHub 
+Repositório criado para os Desafios e estudos do Bootcamp NTT-Dio.
+Com intuído de registrar e aperfeiçoa as praticas com a ferramenta Git/GitHub :bookmark_tabs:
 
 
 
