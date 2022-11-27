@@ -1,0 +1,15 @@
+O que são tags de mídia? 
+
+São tags relacionadas a sons e imagens .
+
+Tag IMG: coloca imagem no HTML, 
+Jpg: galeria de imagens 
+Png: logo tipo, label
+Tag Audio :
+Tag filha so	urce para mostra o caminho do áudio 
+
+Tag vídeo: coloca vídeos no site 
+Controls
+Formtos mp4 e webm
+Tag track : a track fica dentro do vídeo ela é a legenda  além de editar 
+Tag Iframe ; 

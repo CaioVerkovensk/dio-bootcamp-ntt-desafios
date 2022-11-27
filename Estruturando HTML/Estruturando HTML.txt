@@ -1,0 +1,32 @@
+FEstruturando o HTML + formatação 
+
+Objetivo de entender como formatar alguns documentos pensando também em acessibilidade. Estruturar melhor o HTML, preparando-o para aplicar o CSS.
+Formatando textos 
+Tag Sup: 
+Tag Sub: 
+Tag Mark: Marca texto 
+Tag font : 
+
+Tag Div/Span : serve delimitar um espaço e via css pode através desse espaço manipular ele 
+
+Tag Div : Serve para dentro da div colocar um conteúdo , utilizado para estruturação não contem atributos só atributos básicos é um container genérico para conteúdo de fluxo, que de certa forma não representa nada. Ele pode ser utilizado para agrupar elementos para fins de estilos (usando class ou id), ou porque eles compartilham valores de atributos, como lang. Div é em display blocked
+Tag span :   é um conteiner genérico em linha para conteúdo fraseado em local especifico ele não pega o display da página todo como o DIV
+
+Tag Fildset: ela trabalha em conjunto com a tag Legend, ele delimitar o formulário e organiza e utilizamos com a tag legend para delimitar as informações 
+
+Tag embed: não é mais utilizada, por causa da evolução dos sites nos anos 90 eles precisavam que as informações atualizassem de forma independente porque na época era tudo carregado de forma única, então foram criados os frames sets que são trechos das páginas que carregavam e forma independente para diminuir o tráfego de informações.
+O Embed ele é uma tag que veio para em um trecho do texto carregar uma mídia ou plugin externo, ele foi criado com intuito de carregar mídias externa de forma mais assíncrona, só que hoje em dia existe tags mais modernas.
+
+Tag Iframe:  ele é permite criar uma janela na nossa página com conteúdo de outra página funciona que nem o Embed mas seria em paginas e não só a mídia.
+
+ 
+
+
+ 
+
+
+
+
+
+
+

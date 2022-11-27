@@ -1,0 +1,47 @@
+Formulário HTML
+As tags de formulário são muito utilizadas para obter informações do usuário, realizar cadastros, receber opiniões, entre outros. São importantíssimas para qualquer ramo do mercado.
+Formulários:  Basicamente um trecho do HMTL onde o usuário vai inserir informações (Textos, Números, Ativo e Inativo). Além o lado do Cliente que vai inserir as informações e o servidor vai validar com o banco de dados e retornar 
+Atributos no Form:
+Name : serve para pega a instancia do form para validar no JS  
+Action: serve para informar o endereço do servidor que a informações vai ser enviada
+Method: ele tem valores GET e POST, no GET manda pelo URL sendo menos seguro e o POST não envia pela URL ele envia uma requisição pelo BODY para os servidor sendo mais seguro
+Target: abre uma nova aba 
+Autocomplete ON ou OFF: utilizado para salvar as informações de acesso para facilitar no login.
+Onsubimit: assim que clicar ele vai alertar com uam mensagem 
+Tag Form: abre e fecha o formulário onde podemos incluir campos 
+Tag input: ela coloca um campo na tela para o usuário inserir informações
+
+Inputs  
+É um campo onde o client vai inserir valores existem, alguns tipo de input que funcionam dependendo do navegador 
+Tipos de Input:
+Text :  pata inserir textos 
+Number : inserir números 
+Range : scroll 
+Color: bom para selecionar cores 
+Email: inseri email 
+Date: box de data, dia/mês/ano (week e mouth)
+url: Url de paginas web
+
+Check BOX e Radion Button
+Check box:  Seleciona múltiplos valores para enviar para o server, ele é uma variável com zero ou mais valores.
+Colocando um [] no type name “teste”[] ele vai mostrar para linguagem BackEnd que esse tipo não é só um valor é uma lista, mas o method tem que ser  POST  
+Disable desabilita o campo .
+
+Radio Button: ele não tem múltiplos valores ou um ou outro 
+
+Button e Seus Tipos 
+Button: Só cria um botão, só vai ter alguma funcionalidade se tiver um evento ou  JS nele.
+Reset: limpa os campos do form que ele está dentro
+Subimit: basicamente envia o formulário. Existe um evento onsubimit que valida o formulário antes de enviar  se o cliente preencheu os campo
+
+Select e Seus Tipos 
+Select Box: é uma lista já pré-definida que o client tem que escolher de uma lista.
+Option: tag filha que podemos informar as opções para o select box.
+Atributo Selected : pré-seleciona uma informação 
+Atributo multiple : permite selecionar várias opções 
+TExtarea : um campo para inserir informações além de uma linha só, textos maiores 
+Atributo Rows:  limita a linhas 
+
+
+
+
